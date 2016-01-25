@@ -1,0 +1,17 @@
+.
+configurator/config
+example_configurations/adafruit/ST7565
+example_configurations/delta/biv2.5
+example_configurations/delta/generic
+example_configurations/delta/kossel_mini
+example_configurations/delta/kossel_pro
+example_configurations/Felix
+example_configurations/Hephestos
+example_configurations/K8200
+example_configurations/makibox
+example_configurations/RepRapWorld/Megatronics
+example_configurations/RigidBot
+example_configurations/SCARA
+example_configurations/TAZ4
+example_configurations/tvrrug/Round2
+example_configurations/WITBOX
